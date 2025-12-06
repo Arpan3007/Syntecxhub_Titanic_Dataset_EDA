@@ -73,8 +73,8 @@ Gender, passenger class, and age were the strongest predictors of survival based
    - View exported charts inside the outputs/ folder
 
 🧑‍💻 Author
-   Arpan Birendra Chourasia
-   Data Science Intern @Syntecxhub
-  📍 India
+   - Arpan Birendra Chourasia
+   - Data Science Intern @Syntecxhub
+   - 📍 India
 
 ⭐ If you find this project helpful, consider starring the repository!
